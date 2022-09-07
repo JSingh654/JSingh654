@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JSingh654
-- 👀 I’m interested in tech and smarter ways to do things
+- 👋 Hi, I’m @Jahan Singh
+- 👀 I’m interested in Data and solving business problems 
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Python
+- 💞️ I’m looking to collaborate on Python, Machine Learning 
 - 📫 How to reach me jahan.s.singh@gmail.com
 
 <!---
